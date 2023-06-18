@@ -1,6 +1,6 @@
 ## 🏆Certifications🏆
 
-# 📚 Introducing my Certification Repository....! 🏆
+# 📚 Introducing my Certification Repository..! 🏆
 
 I'm thrilled to share that I have created a dedicated repository to showcase all of my certifications and achievements. This repository serves as a comprehensive record of my professional development journey, highlighting the valuable skills and knowledge I've acquired along the way.
 
