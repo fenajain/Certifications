@@ -8,5 +8,6 @@ By centralizing my SQL certifications on GitHub, I aim to provide a convenient a
 
 Feel free to explore my SQL Certification Repository on GitHub to get a glimpse of my SQL expertise. 
 
-If you have any inquiries or exciting opportunities related to SQL or data analysis, please reach out. Let's connect and discover how my SQL skills can contribute to your organization's success.
+If you have any inquiries or exciting opportunities related to SQL or data analysis, please reach out. 
+Let's connect and discover how my SQL skills can contribute to your organization's success.
 
