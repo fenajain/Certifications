@@ -6,5 +6,7 @@ Within this repository, you'll find a collection of my HackerRank SQL certificat
 
 By centralizing my SQL certifications on GitHub, I aim to provide a convenient and easily accessible reference for potential employers and collaborators. It highlights my commitment to mastering SQL and showcases my dedication to continuous learning and professional growth in the database realm.
 
-Feel free to explore my SQL Certification Repository on GitHub to get a glimpse of my SQL expertise. If you have any inquiries or exciting opportunities related to SQL or data analysis, please reach out. Let's connect and discover how my SQL skills can contribute to your organization's success.
+Feel free to explore my SQL Certification Repository on GitHub to get a glimpse of my SQL expertise. 
+
+If you have any inquiries or exciting opportunities related to SQL or data analysis, please reach out. Let's connect and discover how my SQL skills can contribute to your organization's success.
 
